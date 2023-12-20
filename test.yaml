@@ -1,0 +1,13 @@
+Project_Name: test
+Image_Folder_Path: C:\Users\shash\OneDrive\Desktop\Generic_Image_Annotation_GUI\Generic_Image_Annotation_GUI\image_folder
+CSV_Path: C:\Users\shash\OneDrive\Desktop\Generic_Image_Annotation_GUI\Generic_Image_Annotation_GUI\test.csv
+Reference_Image_Path: C:\Users\shash\OneDrive\Desktop\Generic_Image_Annotation_GUI\Generic_Image_Annotation_GUI\reference_image.jpg
+num_keypoints: 60
+curr_img_idx: 0
+Images:
+- Image_Name: sample.jpeg
+  Zoomcycle: 1.0
+  Pan:
+    x: 0
+    y: 0
+  Review_Status: To be reviewed
